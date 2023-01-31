@@ -1,0 +1,80 @@
+{
+  "funcionarios": [
+    {
+      "id": 1,
+      "nome": " Paola ",
+      "idade": 33,
+      "cargo": " Caixista "
+    },
+    {
+      "id": 2,
+      "nome": " João ",
+      "idade": 26,
+      "cargo": " Atendente "
+    },
+    {
+      "id": 3,
+      "nome": " Larissa ",
+      "idade": 47,
+      "cargo": " Faxineira "
+    },
+    {
+      "id": 4,
+      "nome": " Franciele ",
+      "idade": 48,
+      "cargo": " Farmacêutica "
+    }
+  ],
+  "medicamentos": [
+    {
+      "id": 1,
+      "nome": " dipirona monoidratada ",
+      "quantidade": " 20 ml ",
+      "preço": " R$ 4,99 "
+    },
+    {
+      "id": 2,
+      "nome": " amoxicilina ",
+      "quantidade": " 21 capsulas ",
+      "preço": " R$ 17,29 "
+    },
+    {
+      "id": 3,
+      "nome": " neosoro ",
+      "quantidade": " 30 ml ",
+      "preço": " R$ 5,99 "
+    },
+    {
+      "id": 4,
+      "nome": " prednisona ",
+      "quantidade": " 10 comprimidos ",
+      "preço": " R$ 10,79 "
+    }
+  ],
+  "cosmeticos": [
+    {
+      "id": 1,
+      "nome": "sombra",
+      "quantidade": " 7,2 g ",
+      "preço": " R$ 42,00 "
+    },
+    {
+      "id": 2,
+      "nome": "gloss",
+      "quantidade": " 5 ml ",
+      "preço": " R$31,99 "
+    },
+    {
+      "id": 3,
+      "nome": "delineador",
+      "quantidade": " 1,2 ml ",
+      "preço": " R$ 46,00 "
+    },
+    {
+      "id": 4,
+      "nome": "blush",
+      "quantidade": " 5 g ",
+      "preço": " R$ 32,99 "
+    }
+  ]
+}
