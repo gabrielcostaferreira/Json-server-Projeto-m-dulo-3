@@ -1,2 +1,2 @@
-Olá esse é o projeto do terceiro modulo onde eu fiz um json-server com três rotas em que cada uma das rotas contem 
-quatro dados
+Olá esse é o projeto individual do terceiro módulo onde eu fiz um json-server com três rotas em que cada uma delas contem
+q uatro dados
